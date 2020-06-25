@@ -1,4 +1,5 @@
-# spa-vue-vuex-vuerouter-less-antdesign-firebase
+# SPA Vue VueX VueRouter Less AntDesign Firebase
+Demo app >> https://test1-9d50e.web.app/fruits
 
 ## Project setup
 ```
